@@ -376,7 +376,7 @@ public class Sample implements MqttCallback {
 	              "    -b  Use this name/IP address instead of the default (m2m.eclipse.org)\n" +
 	              "    -p  Use this port instead of the default (1883)\n\n" +
 	              "    -i  Use this client ID instead of SampleJavaV3_<action>\n" +
-	              "    -c  Connect to the server with a clean session (default is false)\n" +
+	              "    -c  Connect to the server with a clean session (default is true)\n" +
 	              "     \n\n Security Options \n" +
 	              "     -u Username \n" +
 	              "     -z Password \n" +
